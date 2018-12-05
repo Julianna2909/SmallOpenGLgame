@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544047504 source:/home/julianna/Документы/mario/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<IL/il.h>
+	<IL/ilut.h>
+	<IL/ilu.h>
+
